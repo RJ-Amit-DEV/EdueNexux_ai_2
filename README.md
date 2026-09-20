@@ -217,10 +217,10 @@ edunexus/
 
 | Team Member | Role | Specialization |
 |---|---|---|
-| **Amit Jadhav** | Project Lead & Full Stack Architect | React, Firebase Architecture, AI Integration |
-| **Kunal Gupta** | Frontend Engineer & UI/UX Designer | Tailwind CSS, Responsive UI, Component Architecture |
+| **Amit Jadhav** | Frontend Engineer & UI/UX Designer | Tailwind CSS, Responsive UI, Component Architecture |
+| **Kunal Gupta** |  Full Stack Architect | React, Firebase Architecture, AI Integration |
 | **Krishna Gosavi** | Backend & Cloud Specialist | Firestore Security, Real-Time Sync, Data Pipelines |
-| **Rushabh Hirave** | AI & Educational Systems Developer | Google Gemini API, Curriculum Analytics, Prompt Engineering |
+| **Rushabh Hirave** | AI & Educational Systems Developer | Google Gemini API, Curriculum Analytics|
 
 ---
 
